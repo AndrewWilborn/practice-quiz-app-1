@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "question": "What is the capital of France?",
+        "options": [
+            {
+                "answer": "Paris",
+                "isCorrect": true
+            },
+            {
+                "answer": "New York",
+                "isCorrect": false
+            },
+            {
+                "answer": "Berlin",
+                "isCorrect": false
+            },
+            {
+                "answer": "London",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "question": "What is 12 * 5?",
+        "options": [
+            {
+                "answer": 60,
+                "isCorrect": true
+            },
+            {
+                "answer": 48,
+                "isCorrect": false
+            },
+            {
+                "answer": 72,
+                "isCorrect": false
+            },
+            {
+                "answer": 66,
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "question": "What is 9 + 10?",
+        "options": [
+            {
+                "answer": 19,
+                "isCorrect": true
+            },
+            {
+                "answer": 21,
+                "isCorrect": false
+            },
+            {
+                "answer": 17,
+                "isCorrect": false
+            },
+            {
+                "answer": 23,
+                "isCorrect": false
+            }
+        ]
+    }
+]
